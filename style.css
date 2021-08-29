@@ -1,0 +1,41 @@
+.body_background 
+{
+    background-image: url("https://www.cnet.com/a/img/VHMLZpX7mdHq5yF94Z_3sKpIVnE=/1200x675/2017/03/23/48e8c5e3-b87f-4549-bfbd-6db8140b5513/power-rangers-original.jpg");
+    background-position: center;
+    background-size: cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+}
+
+h2
+{
+	border-radius: 10px;
+	width: 200px;
+	padding: 5px;
+ }
+h3
+{
+	display: inline-block;
+}
+span
+{
+	color: black;	
+}
+a
+{
+	text-decoration: none;
+	font-size: 20px;
+	padding: 10px;
+    float: left;
+    border-radius: 10px;
+}
+#head_info
+{
+	width: 600px;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
